@@ -1,0 +1,13 @@
+<flash_project name="~video rcn" version="1">
+	<project_file filetype="fla" path="./~video rcn.fla" profile=""/>
+	<project_file filetype="as" path="./mx/video/FLVPlayback.as"/>
+	<project_file filetype="as" path="./mx/video/VideoPlayer.as"/>
+	<project_file filetype="as" path="./mx/video/INCManager.as"/>
+	<project_file filetype="as" path="./mx/events/EventDispatcher.as"/>
+	<project_file filetype="as" path="./mx/video/VideoError.as"/>
+	<project_file filetype="as" path="./mx/video/UIManager.as"/>
+	<project_file filetype="as" path="./mx/utils/Delegate.as"/>
+	<project_file filetype="as" path="./mx/video/SMILManager.as"/>
+	<project_file filetype="as" path="./mx/video/NCManager.as"/>
+	<project_file filetype="as" path="./mx/video/CuePointManager.as"/>
+</flash_project>

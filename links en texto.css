@@ -1,0 +1,8 @@
+@charset "utf-8";
+.links_en_texto {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-style: normal;
+	color: #3366FF;
+	text-decoration: underline;
+}
